@@ -17,6 +17,12 @@ body {
   margin-bottom: 60px;
 }
 
-#CoverArt{
+#CoverArt {
     border-radius:50%;
+}
+
+div {
+    text-align: center;
+    background-color:slategrey;
+    color: white;
 }
